@@ -1,0 +1,22 @@
+body{
+    width: 100%;
+    background-color: var(--clr__neutral-2);
+}
+
+.main{
+    width: 80%;
+    max-width: 80rem;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    row-gap: 2rem;
+    column-gap: 2rem;
+    margin: 3rem auto;
+
+    
+    @media screen and (max-width:975px){
+        grid-template-columns: 1fr;
+        grid-template-rows: auto;
+        column-gap: 0;
+    }
+}
