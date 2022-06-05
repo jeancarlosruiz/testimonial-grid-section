@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Jean-FrontEnd/testimonial-grid-section](https://github.com/Jean-FrontEnd/testimonial-grid-section)
-- Live Site URL: [https://jean-frontend.github.io/testimonial-grid-section/](https://jean-frontend.github.io/testimonial-grid-section/)
+- Solution URL: [https://github.com/Jeancarlosruiz/testimonial-grid-section](https://github.com/Jeancarlosruiz/testimonial-grid-section)
+- Live Site URL: [https://jeancarlosruiz.github.io/testimonial-grid-section/](https://jeancarlosruiz.github.io/testimonial-grid-section/)
 
 ## My process
 
@@ -43,6 +43,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Jean Ruiz](https://github.com/Jean-FrontEnd)
-- Frontend Mentor - [@Jean-FrontEnd](https://www.frontendmentor.io/profile/Jean-FrontEnd)
+- Website - [Jean Ruiz](https://github.com/Jeancarlosruiz)
+- Frontend Mentor - [@Jean-FrontEnd](https://www.frontendmentor.io/profile/Jeancarlosruiz)
 - Twitter - [@jeanruizv10](https://twitter.com/JeanRuizV10)
